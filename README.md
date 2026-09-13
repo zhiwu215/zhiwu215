@@ -11,16 +11,10 @@
 
 </div>
 
-<!-- 统计与语言并排展示 -->
-<table align="center">
-  <tr valign="top">
-    <td valign="top">
-      <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zhiwu215&exclude_repo=zhiwu215.github.io&langs_count=4&layout=compact" />
-    </td>
-    <td valign="top">
-      <a href="https://github.com/stats-organization/github-stats-extended">
-        <img height="195" src="https://github-stats-extended.vercel.app/api?username=zhiwu215" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- 统计与语言并排展示：顶部对齐，保留完整统计项 -->
+<p align="center">
+  <img align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zhiwu215&exclude_repo=zhiwu215.github.io&langs_count=6&layout=compact" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img align="top" src="https://github-stats-extended.vercel.app/api?username=zhiwu215" />
+  </a>
+</p>

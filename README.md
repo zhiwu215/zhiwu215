@@ -16,3 +16,13 @@
   <img align="top" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zhiwu215&exclude_repo=zhiwu215.github.io&langs_count=6&layout=compact&hide_border=true" />
   <img align="top" src="https://github-stats-extended.vercel.app/api?username=zhiwu215&hide_border=true" />
 </p>
+
+<br>
+
+<!-- GitHub Activities 贡献快捷索引 -->
+**My GitHub Activities**
+
+[Created PRs](https://github.com/pulls?q=is%3Apr+author%3Azhiwu215+-user%3Azhiwu215) ·
+[Merged PRs](https://github.com/pulls?q=is%3Apr+author%3Azhiwu215+is%3Amerged+) ·
+[Reviewed PRs](https://github.com/pulls?q=is%3Apr+reviewed-by%3Azhiwu215+-user%3Azhiwu215) ·
+[All Involvements](https://github.com/pulls?q=involves%3Azhiwu215+-user%3Azhiwu215)

@@ -15,7 +15,7 @@
 <table align="center">
   <tr valign="top">
     <td valign="top">
-      <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zhiwu215&exclude_repo=zhiwu215.github.io&langs_count=4" />
+      <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=zhiwu215&exclude_repo=zhiwu215.github.io&langs_count=4&card_width=420" />
     </td>
     <td valign="top">
       <a href="https://github.com/stats-organization/github-stats-extended">
